@@ -1,6 +1,6 @@
-# Resources for Students Transitioning from Python to Java
+# Resources for Students Preparing for CS5004
 
-Congratulations on completing your Python course! As you start your journey into Java, you'll notice some similarities and some significant differences compared to Python. The following resources are curated to help you smoothly transition and build on what you already know from Python.
+Congratulations on completing your first computer Science courses! You used Python in your CS5001 to enable you to understand the basic topics you were being introduced to.  There are a multitude of programing languages and it is important to become familiar with more than one language.  In your next course, an overview of the Principles of Object Oriented programming, we are going to use Java as a programming language.  CS5001 was not a Python course, it was an introduction to programming using Python.  CS5004 is not a Java programming course, it is an introduction to Object Oriented Design using the Java programming language.  The following resources will help you transition from Python to Java and prepare you for the upcoming course.
 
 ## Getting Started with Java
 

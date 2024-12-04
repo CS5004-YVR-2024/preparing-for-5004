@@ -3,11 +3,14 @@ Welcome to your first steps in learning Java, especially if you're coming from a
 
 To help you make this transition smoothly, here are some online resources and exercises to prepare for your journey in object-oriented design using Java. This guide aims to get you started with setting up your environment, writing basic programs, and understanding key concepts, drawing comparisons to what you've already learned in Python.
 
-#### 1. Setting Up Visual Studio Code
+## Development Environment Setup
+1. **Installing Java Development Kit (JDK)** - Guide to installing JDK, the necessary tool for Java development.  
+    [Install Java JDK](https://docs.oracle.com/en/java/javase/17/install/overview-jdk-installation.html)
 
-Your first step will be setting up Visual Studio Code for Java development. [This tutorial](https://code.visualstudio.com/docs/java/java-tutorial) by Microsoft provides a detailed, step-by-step guide to install Java Development Kit (JDK), set up VS Code, and configure the necessary extensions for Java.
+1. **Setting Up IntelliJ IDEA for Java** - A step-by-step guide to setting up IntelliJ IDEA, a powerful IDE for Java developers.  
+    [Setting Up IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
 
-**Link:** [Java in Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial) - This guide will help you install the Java Extension Pack, which provides Java IntelliSense, debugging, and other useful tools.
+
 
 #### 2. "Hello, World!" in Java vs. Python
 
