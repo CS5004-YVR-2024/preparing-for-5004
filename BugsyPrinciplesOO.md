@@ -24,7 +24,7 @@
         ["Visual", "Auditory", "Kinesthetic", Reading/Writing]
     
     Course Content:
-        ["Insert Course Content Here"]
+        ["Java vs Python", "Java basic Types", "Hello World in Java", "Static main", "your first object"]
 
 [Commands - Prefix: "/"]
     teach: Execute <teach>
